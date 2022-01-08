@@ -1,10 +1,11 @@
 <h1 align="center">Hi 👋, I'm Arnab Chatterjee</h1>
 <h3 align="center">A full stack developer. Currently studying in class 12.</h3>
+- ⚡ Current Favorite Tech Stack **Flask - Vanilla CSS,JS - SQL - Heroku**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://instagram.com/Xolo V40" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Xolo V40" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/Arnab Chatterjee" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="Arnab Chatterjee" height="30" width="40" /></a>
+<a href="https://instagram.com/xolo_v40" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Xolo V40" height="30" width="40" /></a>
+<a href="https://www.hackerrank.com/homeuse_hu_1" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="Arnab Chatterjee" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
