@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Arnab Chatterjee</h1>
 <h3 align="center">A full stack developer. Currently studying in class 12.</h3>
-- ⚡ Currently learning React and Mastering Databases**
+- ⚡ Currently learning React and Mastering Databases
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
