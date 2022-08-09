@@ -1,12 +1,9 @@
 <h1 align="center">Hi 👋, I'm Arnab Chatterjee</h1>
-<h3 align="center">A full stack web developer. Currently studying in class 12.</h3>
-
-- 🌱 I’m currently mastering **react eco-system and databases**
-
-- ⚡ Current Favorite Tech Stack **Flask - Vanilla CSS,JS - SQL - Heroku**
+<h3 align="center">A passionate fullStack developer from India</h3>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
+<a href="https://www.leetcode.com/arnab_chatterjee_20k" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="arnab_chatterjee_20k" height="30" width="40" /></a>
 <a href="https://instagram.com/xolo v40" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="xolo v40" height="30" width="40" /></a>
 <a href="https://www.hackerrank.com/arnab chatterjee" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="arnab chatterjee" height="30" width="40" /></a>
 </p>
