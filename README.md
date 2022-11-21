@@ -15,16 +15,16 @@
 
 ## My Stats
 
-<table cellspacing="0" cellpadding="0" border=0 ">
+<table cellspacing="0" cellpadding="0" border="0">
   <tr>
-  <td>
+  <td align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=ArnabChatterjee20k&show_icons=true&theme=dark"></img>
 </td>
 
-<td><img src="https://github-readme-streak-stats.herokuapp.com/?user=ArnabChatterjee20k&theme=dark"></img></td>
+<td align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=ArnabChatterjee20k&theme=dark"></img></td>
 <tr>
-<tr><td><img src="https://github-readme-stats.vercel.app/api/top-langs?username=ArnabChatterjee20k&show_icons=true&locale=en&layout=compact&theme=dark"></img></td>
-<td><img width:"25%" align="center" src="https://user-images.githubusercontent.com/83803257/202971806-1bc3780b-1056-4508-8360-ab037290114a.svg"></img></td>
+<tr><td align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs?username=ArnabChatterjee20k&show_icons=true&locale=en&layout=compact&theme=dark"></img></td>
+<td align="center"><img width="40%" src="https://user-images.githubusercontent.com/83803257/202971806-1bc3780b-1056-4508-8360-ab037290114a.svg"></img></td>
 </tr>
 </table>
 
