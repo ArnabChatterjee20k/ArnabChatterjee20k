@@ -15,7 +15,7 @@
 
 ## My Stats
 
-<table>
+<table cellspacing="0" cellpadding="0" style="border:none;">
   <tr>
   <td>
   <img src="https://github-readme-stats.vercel.app/api?username=ArnabChatterjee20k&show_icons=true&theme=dark"></img>
