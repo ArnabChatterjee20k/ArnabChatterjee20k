@@ -23,7 +23,9 @@
 
 <td><img src="https://github-readme-streak-stats.herokuapp.com/?user=ArnabChatterjee20k&theme=dark"></img></td>
 <tr>
-<tr><td><img src="https://github-readme-stats.vercel.app/api/top-langs?username=ArnabChatterjee20k&show_icons=true&locale=en&layout=compact&theme=dark"></img></td></tr>
+<tr><td><img src="https://github-readme-stats.vercel.app/api/top-langs?username=ArnabChatterjee20k&show_icons=true&locale=en&layout=compact&theme=dark"></img></td>
+<td>![undraw_stars_re_6je7](https://user-images.githubusercontent.com/83803257/202971806-1bc3780b-1056-4508-8360-ab037290114a.svg)</td>
+</tr>
 </table>
 
 
