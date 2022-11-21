@@ -15,15 +15,16 @@
 
 ## My Stats
 
-<div style="display:flex; justify-content:center ; flex-wrap:wrap ">
-  <div>
+<table>
+  <tr>
+  <td>
   <img src="https://github-readme-stats.vercel.app/api?username=ArnabChatterjee20k&show_icons=true&theme=dark"></img>
-</div>
+</td>
 
-<div><img src="https://github-readme-streak-stats.herokuapp.com/?user=ArnabChatterjee20k&theme=dark"></img></div>
-
-<div><img src="https://github-readme-stats.vercel.app/api/top-langs?username=ArnabChatterjee20k&show_icons=true&locale=en&layout=compact&theme=dark"></img></div>
-</div>
+<td><img src="https://github-readme-streak-stats.herokuapp.com/?user=ArnabChatterjee20k&theme=dark"></img></td>
+<tr>
+<tr><td><img src="https://github-readme-stats.vercel.app/api/top-langs?username=ArnabChatterjee20k&show_icons=true&locale=en&layout=compact&theme=dark"></img></td></tr>
+</table>
 
 
 ## Projects
