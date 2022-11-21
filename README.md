@@ -18,12 +18,12 @@
 <table cellspacing="0" cellpadding="0" border="0">
   <tr>
   <td align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ArnabChatterjee20k&show_icons=true&theme=tokyonight"></img>
+  <img src="https://github-readme-stats.vercel.app/api?username=ArnabChatterjee20k&show_icons=true&theme=onedark"></img>
 </td>
 
-<td align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=ArnabChatterjee20k&theme=tokyonight"></img></td>
+<td align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=ArnabChatterjee20k&theme=onedark"></img></td>
 <tr>
-<tr><td align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs?username=ArnabChatterjee20k&show_icons=true&locale=en&layout=compact&theme=tokyonight"></img></td>
+<tr><td align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs?username=ArnabChatterjee20k&show_icons=true&locale=en&layout=compact&theme=onedark"></img></td>
 <td align="center"><img width="40%" src="https://user-images.githubusercontent.com/83803257/202971806-1bc3780b-1056-4508-8360-ab037290114a.svg"></img></td>
 </tr>
 </table>
