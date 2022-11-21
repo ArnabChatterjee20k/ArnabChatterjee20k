@@ -15,7 +15,7 @@
 
 ## My Stats
 
-<div style="display:'flex'; justify-content:'center' ; flex-wrap:'wrap' ">
+<div style="display:flex; justify-content:center ; flex-wrap:wrap ">
   <div>
   <img src="https://github-readme-stats.vercel.app/api?username=ArnabChatterjee20k&show_icons=true&theme=dark"></img>
 </div>
