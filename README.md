@@ -1,3 +1,8 @@
+<style>
+td, th {
+   border: none!important;
+}
+</style>
 <h1 align="center">Hi 👋, I'm Arnab Chatterjee</h1>
 <h3 align="center">A passionate fullStack developer from India</h3>
 
