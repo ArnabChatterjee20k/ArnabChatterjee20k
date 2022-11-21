@@ -14,11 +14,14 @@
 * Worked on automated systems
 
 ## My Stats
-<img>https://github-readme-stats.vercel.app/api?username=ArnabChatterjee20k&show_icons=true&theme=dark</img>
 
-<img>https://github-readme-streak-stats.herokuapp.com/?user=ArnabChatterjee20k&theme=dark</img>
+<div>
+  <img src="https://github-readme-stats.vercel.app/api?username=ArnabChatterjee20k&show_icons=true&theme=dark"></img>
+</div>
 
-<img>https://github-readme-stats.vercel.app/api/top-langs?username=ArnabChatterjee20k&show_icons=true&locale=en&layout=compact&theme=dark</img>
+<div><img src="https://github-readme-streak-stats.herokuapp.com/?user=ArnabChatterjee20k&theme=dark"></img></div>
+
+<div><img src="https://github-readme-stats.vercel.app/api/top-langs?username=ArnabChatterjee20k&show_icons=true&locale=en&layout=compact&theme=dark"></img></div>
 
 ## Projects
 
