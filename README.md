@@ -52,7 +52,7 @@
 #### Full Stack(Hosted)
 * [Docu_It](https://github.com/ArnabChatterjee20k/DoCU_It)
 * [Snapshot](https://web-production-c902.up.railway.app/)
-* [WebDictionary](webdictionary-production.up.railway.app)
+* [WebDictionary](https://webdictionary-production.up.railway.app)
 
 #### Full Stack(Not hosted)
 * [Blog](https://github.com/ArnabChatterjee20k/Flask---Advanced-Blog)
