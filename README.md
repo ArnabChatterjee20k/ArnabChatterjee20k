@@ -49,11 +49,13 @@
 * [Deep Tech Education Api clone](https://github.com/ArnabChatterjee20k/DeepTech-Edu)
 * [Learning Management System Api](https://github.com/ArnabChatterjee20k/LearningManagementSystem-Backend) - Under Development
 
-#### Full Stack(Not hosted)
+#### Full Stack(Hosted)
 * [Docu_It](https://github.com/ArnabChatterjee20k/DoCU_It)
+* [Snapshot](https://web-production-c902.up.railway.app/)
+* [WebDictionary](webdictionary-production.up.railway.app)
+
+#### Full Stack(Not hosted)
 * [Blog](https://github.com/ArnabChatterjee20k/Flask---Advanced-Blog)
-* [Snapshot](https://github.com/ArnabChatterjee20k/SNAPSHOT)
-* [WebDictionary](https://github.com/ArnabChatterjee20k/Webdictionary)
 * [Notes Manager](https://github.com/ArnabChatterjee20k/Notes-Manager)
 * [Noty](https://github.com/ArnabChatterjee20k/NOTY---MERN)
 
