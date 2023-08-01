@@ -1,70 +1,79 @@
-<h1 align="center">Hi 👋, I'm Arnab Chatterjee</h1>
-<h3 align="center">A passionate fullStack developer from India</h3>
+Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Arnab Chatterjee
+========================================================================================================================================
 
-<h3 align="left">Connect with me:</h3>
+Full Stack Web Developer
+------------------------
+
+I am having proficiency in python full stack and MERN stack. I am having hands on experience with AWS, docker, react and native. I also do open source contributions and tech blogging in my free time. I am having the ability to build things from scratch and also contribute to a well settled codebase.
+
+* 🌍  I'm based in India
+* 🖥️  See my portfolio at [MyPortfolio](http://arnabchatterjeeac255.showwcase.com/)
+* ✉️  You can contact me at [arnabchatterjee.ac.2@gmail.com](mailto:arnabchatterjee.ac.2@gmail.com)
+* 🚀  Currently building my community and platform [DevSociety](https://devsocofficial.netlify.app/)
+* 🧠  I'm learning DSA
+* 🤝  I'm open to collaborating on Full Stack applications
+* ⚡  I am also a freelancer catering businesses by building user end applications
+
+### Skills
+
 <p align="left">
-<a href="https://www.leetcode.com/arnab_chatterjee_20k" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="arnab_chatterjee_20k" height="30" width="40" /></a>
-<a href="https://instagram.com/xolo v40" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="xolo v40" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/arnab chatterjee" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="arnab chatterjee" height="30" width="40" /></a>
+<a href="https://git-scm.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/git-colored.svg" width="36" height="36" alt="Git" /></a>
+<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" width="36" height="36" alt="JavaScript" /></a>
+<a href="https://www.python.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/python-colored.svg" width="36" height="36" alt="Python" /></a>
+<a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/typescript-colored.svg" width="36" height="36" alt="TypeScript" /></a>
+<a href="https://www.oracle.com/java/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/java-colored.svg" width="36" height="36" alt="Java" /></a>
+<a href="https://www.php.net/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/php-colored.svg" width="36" height="36" alt="PHP" /></a>
+<a href="https://developer.mozilla.org/en-US/docs/Glossary/HTML5" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/html5-colored.svg" width="36" height="36" alt="HTML5" /></a>
+<a href="https://reactjs.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/react-colored.svg" width="36" height="36" alt="React" /></a>
+<a href="https://www.w3.org/TR/CSS/#css" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/css3-colored.svg" width="36" height="36" alt="CSS3" /></a>
+<a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/tailwindcss-colored.svg" width="36" height="36" alt="TailwindCSS" /></a>
+<a href="https://mui.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/materialui-colored.svg" width="36" height="36" alt="Material UI" /></a>
+<a href="https://redux.js.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/redux-colored.svg" width="36" height="36" alt="Redux" /></a>
+<a href="https://vitejs.dev/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/vite-colored.svg" width="36" height="36" alt="Vite" /></a>
+<a href="https://getbootstrap.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/bootstrap-colored.svg" width="36" height="36" alt="Bootstrap" /></a>
+<a href="https://nodejs.org/en/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/nodejs-colored.svg" width="36" height="36" alt="NodeJS" /></a>
+<a href="https://expressjs.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/express-colored.svg" width="36" height="36" alt="Express" /></a>
+<a href="https://fastapi.tiangolo.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/fastapi-colored.svg" width="36" height="36" alt="Fast API" /></a>
+<a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mongodb-colored.svg" width="36" height="36" alt="MongoDB" /></a>
+<a href="https://www.mysql.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mysql-colored.svg" width="36" height="36" alt="MySQL" /></a>
+<a href="https://www.postgresql.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/postgresql-colored.svg" width="36" height="36" alt="PostgreSQL" /></a>
+<a href="https://firebase.google.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/firebase-colored.svg" width="36" height="36" alt="Firebase" /></a>
+<a href="https://appwrite.io/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/appwrite-colored.svg" width="36" height="36" alt="Appwrite" /></a>
+<a href="https://flask.palletsprojects.com/en/2.0.x/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/flask-colored.svg" width="36" height="36" alt="Flask" /></a>
+<a href="https://supabase.io/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/supabase-colored.svg" width="36" height="36" alt="Supabase" /></a>
+<a href="https://www.heroku.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/heroku-colored.svg" width="36" height="36" alt="Heroku" /></a>
+<a href="https://aws.amazon.com" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/aws-colored.svg" width="36" height="36" alt="Amazon Web Services" /></a>
+<a href="https://www.docker.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/docker-colored.svg" width="36" height="36" alt="Docker" /></a>
+<a href="https://www.figma.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/figma-colored.svg" width="36" height="36" alt="Figma" /></a>
 </p>
 
 
-## Experience
-* Working as a freelance full stack web developer.
-* Worked on automated systems
+### Socials
 
-## My Stats
+<p align="left"> <a href="https://discord.com/users/Arnab20k(Gravdestroyer)#6253" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/discord.svg" width="32" height="32" /></a> <a href="https://www.github.com/ArnabChatterjee20k" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a> <a href="https://arnabchatterjee20k.hashnode.dev" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/hashnode.svg" width="32" height="32" /></a> <a href="https://www.linkedin.com/in/arnab-chatterjee-905ab3219/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a> <a href="https://www.stackoverflow.com/users/19920100/arnab-chatterjee" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/stackoverflow.svg" width="32" height="32" /></a> <a href="https://www.twitter.com/arnabch20k" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" width="32" height="32" /></a></p>
 
-<table cellspacing="0" cellpadding="0" border="0">
-  <tr>
-  <td align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ArnabChatterjee20k&show_icons=true&theme=onedark"></img>
-</td>
+### Badges
 
-<td align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=ArnabChatterjee20k&theme=onedark"></img></td>
-<tr>
-<tr><td align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs?username=ArnabChatterjee20k&show_icons=true&locale=en&layout=compact&theme=onedark"></img></td>
-<td align="center"><img width="40%" src="https://user-images.githubusercontent.com/83803257/202971806-1bc3780b-1056-4508-8360-ab037290114a.svg"></img></td>
-</tr>
-</table>
+<b>My GitHub Stats</b>
 
+<a href="http://www.github.com/ArnabChatterjee20k"><img src="https://github-readme-stats.vercel.app/api?username=ArnabChatterjee20k&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="ArnabChatterjee20k's GitHub stats" /></a>
+
+<a href="http://www.github.com/ArnabChatterjee20k"><img src="https://github-readme-streak-stats.herokuapp.com/?user=ArnabChatterjee20k&stroke=ffffff&background=1c1917&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
 
 ## Projects
 
-#### Frontend
+### Best Projects
+* [FoodzNation](https://github.com/ArnabChatterjee20k/FoodzNation)
+* [PickPalette](https://pickpalette.netlify.app/)
+* [DocHub.ai](https://github.com/ArnabChatterjee20k/Dochub.ai---Client)
+* [DevSoc Backend(Building Stage)](https://github.com/ArnabChatterjee20k/aec-devsoc-proj-portal)
 * [AdlerDigital](https://adler-digital.netlify.app/)
 * [Instrument](https://arnabchatterjee20k.github.io/Instrument-WebPage/)
-* [Fitness App](https://abcfitness-app.netlify.app/)
-* [BirthDay Wishing Page](https://arnabchatterjee20k.github.io/Birthday-wish-page/)
-* [MHub](https://github.com/ArnabChatterjee20k/Mhub) -Under Development
-* [Order Summary](https://arnabchatterjee20k.github.io/order-summary-component-main/)
-* [Stats Preview](https://arnabchatterjee20k.github.io/stats-preview-card-component-main/)
-* [News Monkey](https://github.com/ArnabChatterjee20k/News_Monkey)
-* [Foodilicious](https://github.com/ArnabChatterjee20k/Foodicious)
+* [My Blog using 11ty](https://blog-11ty.netlify.app/)
 
-#### Utility Apps
-* [Text Utils](https://pedantic-kilby-aca0dd.netlify.app/)
-
-#### Backend(not Hosted)
-* [Deep Tech Education Api clone](https://github.com/ArnabChatterjee20k/DeepTech-Edu)
-* [Learning Management System Api](https://github.com/ArnabChatterjee20k/LearningManagementSystem-Backend) - Under Development
-
-#### Full Stack(Hosted)
-* [Docu_It](https://github.com/ArnabChatterjee20k/DoCU_It)
-* [Snapshot](https://web-production-c902.up.railway.app/)
-* [WebDictionary](https://webdictionary-production.up.railway.app)
-
-#### Full Stack(Not hosted)
-* [Blog](https://github.com/ArnabChatterjee20k/Flask---Advanced-Blog)
-* [Notes Manager](https://github.com/ArnabChatterjee20k/Notes-Manager)
-* [Noty](https://github.com/ArnabChatterjee20k/NOTY---MERN)
-
-
-#### Desktop GUI
-* [Docu_It](https://github.com/ArnabChatterjee20k/DoCU_It)
-* [Dictionary](https://github.com/ArnabChatterjee20k/Dictionary-GUI)
-* [Windows Run Clone](https://github.com/ArnabChatterjee20k/Windows-Run-clone)
-
-
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.cypress.io" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/6e46ec1fc23b60c8fd0d2f2ff46db82e16dbd75f/icons/cypress.svg" alt="cypress" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://flask.palletsprojects.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-icon.svg" alt="flask" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://heroku.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/heroku/heroku-icon.svg" alt="heroku" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.adobe.com/in/products/illustrator.html" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="illustrator" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://www.sqlite.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="sqlite" width="40" height="40"/> </a> </p>
+### All misc projects(For Fun)
+| Frontend                           | Utility Apps                                               | Backend (not Hosted)                                   | Full Stack (Hosted)                                 | Full Stack (Not Hosted)                               | Desktop GUI                                           |
+|------------------------------------|------------------------------------------------------------|-------------------------------------------------------|-----------------------------------------------------|-------------------------------------------------------|-------------------------------------------------------|
+| [AdlerDigital](https://adler-digital.netlify.app/) | [Text Utils](https://pedantic-kilby-aca0dd.netlify.app/) | [Deep Tech Education Api clone](https://github.com/ArnabChatterjee20k/DeepTech-Edu) | [Docu_It](https://github.com/ArnabChatterjee20k/DoCU_It) | [Blog](https://github.com/ArnabChatterjee20k/Flask---Advanced-Blog) | [Docu_It](https://github.com/ArnabChatterjee20k/DoCU_It)  |
+| [Instrument](https://arnabchatterjee20k.github.io/Instrument-WebPage/)  |                                                            | [Learning Management System Api](https://github.com/ArnabChatterjee20k/LearningManagementSystem-Backend) | [Snapshot](https://web-production-c902.up.railway.app/) | [Notes Manager](https://github.com/ArnabChatterjee20k/Notes-Manager) | [Dictionary](https://github.com/ArnabChatterjee20k/Dictionary-GUI) |
+| [Fitness App](https://abcfitness-app.netlify.app/)    |                                                            |                                                   | [WebDictionary](https://webdictionary-production.up.railway.app)  | [Noty](https://github.com/ArnabChatterjee20k/NOTY---MERN)       | [Windows Run Clone](https://github.com/ArnabChatterjee20k/Windows-Run-clone)  |
