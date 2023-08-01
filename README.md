@@ -7,7 +7,7 @@ Full Stack Web Developer
 I am having proficiency in python full stack and MERN stack. I am having hands on experience with AWS, docker, react and native. I also do open source contributions and tech blogging in my free time. I am having the ability to build things from scratch and also contribute to a well settled codebase.
 
 * 🌍  I'm based in India
-* 🖥️  See my portfolio at [MyPortfolio](http://arnabchatterjeeac255.showwcase.com/)
+* 🖥️  See my portfolio at [MyPortfolio](https://arnabchatterjeeac255.showwcase.com/)
 * ✉️  You can contact me at [arnabchatterjee.ac.2@gmail.com](mailto:arnabchatterjee.ac.2@gmail.com)
 * 🚀  Currently building my community and platform [DevSociety](https://devsocofficial.netlify.app/)
 * 🧠  I'm learning DSA
