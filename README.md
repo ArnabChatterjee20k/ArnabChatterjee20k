@@ -70,6 +70,7 @@ I am having proficiency in python full stack and MERN stack. I am having hands o
 * [AdlerDigital](https://adler-digital.netlify.app/)
 * [Instrument](https://arnabchatterjee20k.github.io/Instrument-WebPage/)
 * [My Blog using 11ty](https://blog-11ty.netlify.app/)
+* [Dashboard with Google auth and chart](https://targetdashboard.netlify.app/)
 
 ### All misc projects(For Fun)
 | Frontend                           | Utility Apps                                               | Backend (not Hosted)                                   | Full Stack (Hosted)                                 | Full Stack (Not Hosted)                               | Desktop GUI                                           |
