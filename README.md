@@ -60,21 +60,3 @@ I am having proficiency in python full stack and MERN stack. I am having hands o
 
 <a href="http://www.github.com/ArnabChatterjee20k"><img src="https://github-readme-streak-stats.herokuapp.com/?user=ArnabChatterjee20k&stroke=ffffff&background=1c1917&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
 
-## Projects
-
-### Best Projects
-* [FoodzNation](https://github.com/ArnabChatterjee20k/FoodzNation)
-* [PickPalette](https://pickpalette.netlify.app/)
-* [DocHub.ai](https://github.com/ArnabChatterjee20k/Dochub.ai---Client)
-* [DevSoc Backend(Building Stage)](https://github.com/ArnabChatterjee20k/aec-devsoc-proj-portal)
-* [AdlerDigital](https://adler-digital.netlify.app/)
-* [Instrument](https://arnabchatterjee20k.github.io/Instrument-WebPage/)
-* [My Blog using 11ty](https://blog-11ty.netlify.app/)
-* [Dashboard with Google auth and chart](https://targetdashboard.netlify.app/)
-
-### All misc projects(For Fun)
-| Frontend                           | Utility Apps                                               | Backend (not Hosted)                                   | Full Stack (Hosted)                                 | Full Stack (Not Hosted)                               | Desktop GUI                                           |
-|------------------------------------|------------------------------------------------------------|-------------------------------------------------------|-----------------------------------------------------|-------------------------------------------------------|-------------------------------------------------------|
-| [AdlerDigital](https://adler-digital.netlify.app/) | [Text Utils](https://pedantic-kilby-aca0dd.netlify.app/) | [Deep Tech Education Api clone](https://github.com/ArnabChatterjee20k/DeepTech-Edu) | [Docu_It](https://github.com/ArnabChatterjee20k/DoCU_It) | [Blog](https://github.com/ArnabChatterjee20k/Flask---Advanced-Blog) | [Docu_It](https://github.com/ArnabChatterjee20k/DoCU_It)  |
-| [Instrument](https://arnabchatterjee20k.github.io/Instrument-WebPage/)  |                                                            | [Learning Management System Api](https://github.com/ArnabChatterjee20k/LearningManagementSystem-Backend) | [Snapshot](https://web-production-c902.up.railway.app/) | [Notes Manager](https://github.com/ArnabChatterjee20k/Notes-Manager) | [Dictionary](https://github.com/ArnabChatterjee20k/Dictionary-GUI) |
-| [Fitness App](https://abcfitness-app.netlify.app/)    |                                                            |                                                   | [WebDictionary](https://webdictionary-production.up.railway.app)  | [Noty](https://github.com/ArnabChatterjee20k/NOTY---MERN)       | [Windows Run Clone](https://github.com/ArnabChatterjee20k/Windows-Run-clone)  |
