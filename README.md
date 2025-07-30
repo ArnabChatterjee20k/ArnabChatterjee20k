@@ -7,6 +7,7 @@
 I’m a passionate developer who loves turning ideas into tools — sometimes useful, sometimes weirdly fun, always educational. From pub-sub experiments using GitHub issues to palette generators for designers or shipping a github codespaces like infra, I enjoy solving problems with clean, functional code and shipping fast.
 
 I like working across the stack, experimenting with microservices, real-time systems, developer tools, and quirky product ideas. If there's a hackathon or a late-night "what-if" idea, I’m probably on it. Always chasing the next "aha!" moment.
+
 🔧 Devtool and backend are my personal favourites.
 
 ---
